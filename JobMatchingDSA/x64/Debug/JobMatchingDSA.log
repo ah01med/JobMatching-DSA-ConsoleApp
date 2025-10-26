@@ -1,0 +1,15 @@
+﻿  JobMatchingDSA.cpp
+C:\Users\user\Desktop\Job Matching System\JobMatchingDSA\JobMatchingDSA.cpp(223,12): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+C:\Users\user\Desktop\Job Matching System\JobMatchingDSA\JobMatchingDSA.cpp(531,22): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+  ArrayJobs.cpp
+  ArraySearch.cpp
+  ArraySimilarity.cpp
+  ResumeArray.cpp
+  CsvReader.cpp
+  SingleColumnCsv.cpp
+  JobLinkedList.cpp
+  ResumeLinkedList.cpp
+  MatchLogic.cpp
+  Generating Code...
+  JobMatchingDSA.vcxproj -> C:\Users\user\Desktop\Job Matching System\JobMatchingDSA\x64\Debug\JobMatchingDSA.exe
+  0 File(s) copied
